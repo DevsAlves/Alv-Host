@@ -4,8 +4,6 @@ Esse site é para hospedagem de site(Mais é apenas uma demonstração), eu fiz 
 
 ## Tecnologias Utilizadas
 
-Liste as tecnologias usadas no desenvolvimento do site:
-
 - HTML5
 - CSS3 
 
