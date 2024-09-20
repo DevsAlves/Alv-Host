@@ -12,4 +12,4 @@ Liste as tecnologias usadas no desenvolvimento do site:
 ## Instalação
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/seu-repositorio.git
+   git clone https://github.com/DevsAlves/Alv-Host.git
